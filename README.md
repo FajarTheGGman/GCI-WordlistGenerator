@@ -9,7 +9,7 @@ Result
 ![alt-text](https://github.com/FajarTheGGman/GCI-WordlistGenerator/blob/master/.img/wd1.PNG)
 
 # Demo
-[![(https://asciinema.org/a/rV5A1wVTcWBCAGW3UeRY6akrt.png)](https://asciinema.org/a/rV5A1wVTcWBCAGW3UeRY6akrt)
+[![](https://asciinema.org/a/rV5A1wVTcWBCAGW3UeRY6akrt.png)](https://asciinema.org/a/rV5A1wVTcWBCAGW3UeRY6akrt)
 
 # How To install ?
 <pre>
