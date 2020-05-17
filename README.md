@@ -18,3 +18,6 @@ Result
 3.cd GCI-WordlistGenerator
 4.python wordlist-gen.py
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
